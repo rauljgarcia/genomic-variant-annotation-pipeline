@@ -1,6 +1,6 @@
 # Genomic Variant Annotation Pipeline
 
-A bioinformatics data engineering project that retrieves human genetic variants from the ClinVar REST API, standardizes HGVS variant notation, annotates variants using the Ensembl REST API (GRCh37), integrates the results into a normalized SQLite database, and provides SQL queries and an interactive Streamlit dashboard for exploring genomic variant data.”
+A bioinformatics data engineering project that retrieves human genetic variants from the ClinVar REST API, standardizes HGVS variant notation, annotates variants using the Ensembl REST API (GRCh37), integrates the results into a normalized SQLite database, and provides SQL queries and an interactive Streamlit dashboard for exploring genomic variant data.
 
 ## Features
 
